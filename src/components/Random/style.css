@@ -1,0 +1,15 @@
+.steps{
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    padding: 8px;
+    background: #3be165;
+    border: none;
+    color: #fff;
+    text-align: center;
+    margin-top: -1px;
+    font: 22px Arial, sans-serif;
+}
+/* .steps >li>p{
+    font-size: 12px;
+} */

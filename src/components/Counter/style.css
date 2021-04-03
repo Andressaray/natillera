@@ -1,0 +1,9 @@
+.background-counter{
+    background: rgb(116,220,148);
+    background: linear-gradient(90deg, rgba(116,220,148,1) 27%, rgba(126,217,87,1) 98%);
+}
+.time{
+    width: 32px;
+    height: 32px;
+    background: #fff;
+}

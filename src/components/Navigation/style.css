@@ -1,0 +1,24 @@
+.background{
+    background-color: #75ea93;
+    opacity: 0.8;
+}
+.logo{
+    width: 15%;
+    opacity: 100%;
+}
+.text-btn{
+    color: #75ea93 !important;
+}
+
+.icon{
+    width: 15px;
+}
+.navbar-brand{
+    margin-right: -25% !important;
+}
+@media (max-width: 615px) { 
+    .navbar-brand{
+        display: contents !important;
+    }
+}
+    

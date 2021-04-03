@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/natillera/static/css/main.a28653e0.chunk.css",
+    "main.js": "/natillera/static/js/main.4c4d5487.chunk.js",
+    "main.js.map": "/natillera/static/js/main.4c4d5487.chunk.js.map",
+    "runtime-main.js": "/natillera/static/js/runtime-main.ed06a4cc.js",
+    "runtime-main.js.map": "/natillera/static/js/runtime-main.ed06a4cc.js.map",
+    "static/css/2.5c573378.chunk.css": "/natillera/static/css/2.5c573378.chunk.css",
+    "static/js/2.59bbee84.chunk.js": "/natillera/static/js/2.59bbee84.chunk.js",
+    "static/js/2.59bbee84.chunk.js.map": "/natillera/static/js/2.59bbee84.chunk.js.map",
+    "index.html": "/natillera/index.html",
+    "static/css/2.5c573378.chunk.css.map": "/natillera/static/css/2.5c573378.chunk.css.map",
+    "static/css/main.a28653e0.chunk.css.map": "/natillera/static/css/main.a28653e0.chunk.css.map",
+    "static/js/2.59bbee84.chunk.js.LICENSE.txt": "/natillera/static/js/2.59bbee84.chunk.js.LICENSE.txt",
+    "static/media/logo.ff6727d1.png": "/natillera/static/media/logo.ff6727d1.png",
+    "static/media/loupe.1d92f967.png": "/natillera/static/media/loupe.1d92f967.png",
+    "static/media/repolla1.97a95375.png": "/natillera/static/media/repolla1.97a95375.png",
+    "static/media/repolla2.26e40e6d.png": "/natillera/static/media/repolla2.26e40e6d.png",
+    "static/media/repolla3.61bcfd6c.png": "/natillera/static/media/repolla3.61bcfd6c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed06a4cc.js",
+    "static/css/2.5c573378.chunk.css",
+    "static/js/2.59bbee84.chunk.js",
+    "static/css/main.a28653e0.chunk.css",
+    "static/js/main.4c4d5487.chunk.js"
+  ]
+}

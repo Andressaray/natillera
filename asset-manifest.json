@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/natillera/static/css/main.a28653e0.chunk.css",
-    "main.js": "/natillera/static/js/main.4c4d5487.chunk.js",
-    "main.js.map": "/natillera/static/js/main.4c4d5487.chunk.js.map",
+    "main.css": "/natillera/static/css/main.3ac097e2.chunk.css",
+    "main.js": "/natillera/static/js/main.f3ca5733.chunk.js",
+    "main.js.map": "/natillera/static/js/main.f3ca5733.chunk.js.map",
     "runtime-main.js": "/natillera/static/js/runtime-main.ed06a4cc.js",
     "runtime-main.js.map": "/natillera/static/js/runtime-main.ed06a4cc.js.map",
     "static/css/2.5c573378.chunk.css": "/natillera/static/css/2.5c573378.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.59bbee84.chunk.js.map": "/natillera/static/js/2.59bbee84.chunk.js.map",
     "index.html": "/natillera/index.html",
     "static/css/2.5c573378.chunk.css.map": "/natillera/static/css/2.5c573378.chunk.css.map",
-    "static/css/main.a28653e0.chunk.css.map": "/natillera/static/css/main.a28653e0.chunk.css.map",
+    "static/css/main.3ac097e2.chunk.css.map": "/natillera/static/css/main.3ac097e2.chunk.css.map",
     "static/js/2.59bbee84.chunk.js.LICENSE.txt": "/natillera/static/js/2.59bbee84.chunk.js.LICENSE.txt",
     "static/media/logo.ff6727d1.png": "/natillera/static/media/logo.ff6727d1.png",
     "static/media/loupe.1d92f967.png": "/natillera/static/media/loupe.1d92f967.png",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.ed06a4cc.js",
     "static/css/2.5c573378.chunk.css",
     "static/js/2.59bbee84.chunk.js",
-    "static/css/main.a28653e0.chunk.css",
-    "static/js/main.4c4d5487.chunk.js"
+    "static/css/main.3ac097e2.chunk.css",
+    "static/js/main.f3ca5733.chunk.js"
   ]
 }

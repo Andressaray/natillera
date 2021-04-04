@@ -6,7 +6,7 @@ import './style.css'
 
 export default () => {
     return (
-        <Navbar expand='lg' sticky='top' className='background'>
+        <Navbar collapseOnSelect expand='lg' sticky='top' className='background'>
             <Navbar.Brand href='#home' className='navbar-brand'>
                 <img src={logo} className='logo' />
             </Navbar.Brand>

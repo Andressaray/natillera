@@ -51,19 +51,19 @@ export default () => {
                                     </InputGroup>
                                 </td>
                                 <td>
-                                    <InputGroup size='sm' className='ml-1'>
+                                    <InputGroup size='sm' className='counter'>
                                         <InputGroup.Text readOnly={true}>{hours.length === 2 ? hours.charAt(0): 0}</InputGroup.Text>
                                         <InputGroup.Text className='ml-1' readOnly={true}>{hours.length === 2 ? hours.charAt(1): hours.charAt(0)}</InputGroup.Text>
                                     </InputGroup>
                                 </td>
                                 <td>
-                                    <InputGroup size='sm' className='ml-1'>
+                                    <InputGroup size='sm' className='counter'>
                                         <InputGroup.Text readOnly={true}>{minutes.length === 2 ? minutes.charAt(0): 0}</InputGroup.Text>
                                         <InputGroup.Text className='ml-1' readOnly={true}>{minutes.length === 2 ? minutes.charAt(1): minutes.charAt(0)}</InputGroup.Text>
                                     </InputGroup>
                                 </td>
                                 <td>
-                                    <InputGroup size='sm' className='ml-1'>
+                                    <InputGroup size='sm' className='counter'>
                                         <InputGroup.Text readOnly={true}>{seconds.length === 2 ? seconds.charAt(0): 0}</InputGroup.Text>
                                         <InputGroup.Text className='ml-1' readOnly={true}>{seconds.length === 2 ? seconds.charAt(1): seconds.charAt(0)}</InputGroup.Text>
                                     </InputGroup>
